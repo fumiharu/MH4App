@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>58EEBA60-B2FC-4F7E-94E9-92E254BE7430</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MH4wiki</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6786F6F9-4F64-4B4E-9318-799306F588EB</key>
+		<string>ssh://github.com/fumiharu/MH4App.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MH4wiki master1-2-2/MH4wiki.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6786F6F9-4F64-4B4E-9318-799306F588EB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/fumiharu/MH4App.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6786F6F9-4F64-4B4E-9318-799306F588EB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6786F6F9-4F64-4B4E-9318-799306F588EB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MH4App</string>
+		</dict>
+	</array>
+</dict>
+</plist>
